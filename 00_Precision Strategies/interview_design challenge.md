@@ -1,0 +1,1 @@
+![[UI_UX Senior Associate Design Challenge.docx]]
