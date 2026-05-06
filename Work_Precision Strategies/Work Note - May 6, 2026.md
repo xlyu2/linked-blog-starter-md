@@ -10,3 +10,5 @@
 	- cancel chatgpt subscriptions
 - find a portrait image for slack and gmail
 - wifi for ny office in precision: pw - ThatPrecise
+- article sharing - [3 monthes timelines to get a job for designers]
+- 
