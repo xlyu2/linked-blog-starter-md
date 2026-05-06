@@ -1,5 +1,11 @@
 **To-dos**
-- Linkedin send post
 - opt reach out hr for the form
+- Linkedin send post
 - organize project notes
+	- archive firehouse project, using ai to improve consistency
+	- loud voters poll card component design access
 - email back mega
+- cancel subscriptions:
+	- cancel linkedin subscritpions
+	- cancel chatgpt subscriptions
+- find a portrait image for slack and gmail
