@@ -11,4 +11,11 @@
 - find a portrait image for slack and gmail
 - wifi for ny office in precision: pw - ThatPrecise
 - article sharing - [3 monthes timelines to get a job for designers]
+
+
+Day 1 card suggestions
+- create a request
+- option 2 - news thumbnails, ad a button the the first to weight
+- steps keep steps design, incorporate a news cover
+- option 3 - show zero progress,
 - 
