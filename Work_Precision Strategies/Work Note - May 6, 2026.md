@@ -9,3 +9,4 @@
 	- cancel linkedin subscritpions
 	- cancel chatgpt subscriptions
 - find a portrait image for slack and gmail
+- wifi for ny office in precision: pw - ThatPrecise
