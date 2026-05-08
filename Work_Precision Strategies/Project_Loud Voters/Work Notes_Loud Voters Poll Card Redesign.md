@@ -28,3 +28,11 @@ My improvement for Figma organization:
 my improvement:
 - card component - auto layout
 - creating variables
+
+---
+Meeting-notes-May 8 2026
+
+- increase poll sized from 400px to 500px, adjust all cards increase all sizes, from 3 collumns to 2 collumns
+- navitatuioon bar
+- news is not going, delete news pill, choose 3 types of categories: poll, bill, poll,
+- change layout, 
