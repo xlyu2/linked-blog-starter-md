@@ -20,7 +20,7 @@ cvi logo, for vpc 1,
 
 
 ---
-**favicon+share image**
+## favicon+share image**
 what favicon is?
 and what shared images are?
 How can I get them ready for developers in figma?
