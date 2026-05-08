@@ -4,25 +4,85 @@
 [[05-07-2026]]
 [[05-08-2026]]
 
-## Projects I've worked on: 
-- Marketing, company's FCD profile headshots, I rewrite the prompt Daniel give me, help his solve the inconsistency or ai will change things. so nano banana can get better performance. but some problem is rising: Danial think it will be easy for ai to process it, so he is natually havnign higher requirment to ask accuracy, but when it involving some details, it will take more time to fix some really small details, it's just something i think the team should keep in mind while using ai in the project
-- Loud Voter Website, poll card and federal bills redesign, I like I got new 
-	- problem I noticed: For starting web design project, while looking in Figma, very messy, so I spend lots of time organizing files, archivign projects, create covers for internal and onboarding board, i also think theire is better way for desgin, dev, presentation to client, so i will discuss with daniel later about that.
-- on thursady i met the internal web team, meeting with daniel and aerok, daniel rosen assigned me to taking notes and distribute weekly to dos, so i'll take over that poart for next week.
-- VPC acn CVI project, organizing a style guide, instruction for design regulations for dev, and it was not my design, so I also take time to summarizing it, and I alos used an ai plugin i think its very useful, but i ndded to do more research on how it well help on building the system before i can share with the team, but yeah, def more ways of doing that
-	- but agina, some design system thing daniel asked me to do,  in current design file each compnent isn't linked at all, so it took me longer to look into every ditals and naming and organizing things. I think if let me do that from the begining, i will start build te system and linking compnonents during the proces,s so it will be easier updates later. And not entiong today i was dig into some really old files trying to find logos, many broken and inconsistencyies
-- overall, i think i delivered fast and over expectations, somepart wasting time because lack of assets or disorgaized in current projects, but i think i con contribute to makeing those more efficient
-## Feeling
-- each day never repeats so far - I love it and love to see I can improve the system immediately while contributing to the web design develpment, daniel is feeding my plate with new tasks each day.
-- I also got many chances to work with ai, and I am also woking on using ai to improve the web design workflow immediately
+## Projects I’ve Worked On
 
-## Things I want to improve for the web design team
-- web design prject, keep the mind in details and system, easier for dev
-- try to understand the web tools, and how the collaborartion is for web team
-- some ai tools and ai agents i think can be introduced
-- precision's brand design guidlines, and design system for web team can use internally
+### Marketing / Company FCD Profile Headshots
+- I helped improve the AI workflow for generating company headshots.
+- Daniel initially provided prompts, and I rewrote/refined them to improve consistency and reduce AI-generated inaccuracies.
+- The updated prompts helped Nano Banana perform better overall.
+
+### Observation About AI Workflow
+- One thing I noticed: when AI outputs improve, expectations naturally become much higher regarding accuracy and polish.
+- Small visual inconsistencies can still take a lot of manual time to fix, especially around detailed facial or image corrections.
+- I think it’s important for the team to keep in mind that AI speeds up production, but final polishing still requires human review and time.
+
+---
+
+### Loud Voter Website
+Worked on:
+- Poll card redesign
+- Federal bills redesign
+
+### What I Noticed
+- The Figma files were fairly disorganized when I first joined.
+- I spent significant time:
+    - organizing files
+    - archiving projects
+    - creating covers/thumbnails
+    - improving onboarding/internal structure
+
+### Improvement Opportunity
+- I think there’s room to improve how design, development, and client presentation files are structured together.
+- I’d like to discuss workflow improvements with Daniel later once I understand the process more deeply.
+
+---
+### Internal Web Team Meeting
+- On Thursday, I met with the internal web team alongside Daniel and Aerok.
+- Daniel Rosen assigned me to take over weekly notes and distribute weekly to-dos moving forward.
+- I’ll be handling that starting next week.
+
+---
+
+### VPC and CVI Project
+- I worked on organizing a style guide and creating clearer design instructions for developers.
+- Since the design system wasn’t originally built by me, I spent time understanding and summarizing the existing structure first.
+
+### AI + Design System Thoughts
+- I tested an AI plugin that I think could become very useful for system organization and workflow efficiency.
+- I still want to research it more before sharing it widely with the team, but I definitely see potential there.
+
+### Design System Challenges I Noticed
+- I also spent time digging through older files to locate assets/logos, where I noticed broken links and inconsistencies.
 
 
-## Questions want to ask:
-- any tips for me i can stand out more? 
-- I am interested in a design and dev tool, i think it can contribute on web design team and save dev effort, I may request a subscription to try, so may i do that?
+---
+
+# Overall Feeling So Far
+
+- Every day has been very different, which I’ve really enjoyed.
+- I like that I can immediately contribute while also improving systems/workflows at the same time.
+- Daniel has been giving me new challenges every day, which keeps things exciting.
+- I’ve also had many opportunities to explore AI-assisted workflows for web and design production.
+
+---
+
+# Areas I’d Love to Improve / Contribute To
+
+### Web Design Workflow
+- Creating cleaner systems and more developer-friendly design files
+- Improving organization and scalability in Figma
+### Team Collaboration
+- Better understanding the web team’s tools and collaboration process
+
+### AI Integration
+- Exploring useful AI tools and agents that could improve workflow efficiency
+- Potentially introducing AI-assisted systems once I validate them further
+
+### Internal Systems
+- Helping strengthen Precision’s internal web design guidelines and design systems
+
+---
+# Questions I Want to Ask
+
+- Where do you think I could contribute most?
+- I’ve been exploring a design/dev tool that could improve workflow efficiency — would it be possible to test a trial/subscription if it shows value for the team?
