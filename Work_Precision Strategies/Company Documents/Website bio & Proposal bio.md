@@ -1,10 +1,9 @@
 ## Website Version
+Xindi (Cindy) Lyu is a designer and creative technologist working across product design, branding, motion, digital experiences, and design engineering.
 
-Xindi (Cindy) Lyu is a designer and creative technologist with experience spanning product design, branding, motion, and digital experiences, and design engineering.
+At Precision, Cindy supports the creative team across digital campaigns, visual systems, and web experiences for corporate, advocacy, and public affairs clients. Her work spans UI/UX design, brand storytelling, and creative production, helping build scalable and visually cohesive digital experiences.
 
-At Precision, Cindy supports the creative team across digital campaigns, visual systems, and web experiences for clients spanning corporate, advocacy, and public affairs work. She works across UI/UX design, brand storytelling, and creative production, helping develop scalable and visually cohesive digital experiences.
-
-Prior to joining Precision, Cindy worked across fintech, media, and emerging technology industries. Most recently, she designed digital product experiences at Discover Financial Services, where she contributed to web and mobile experiences complex financial tools and customer engagement. Previously, she worked on brand, motion, and interactive design projects for clients including NBCUniversal and technology startups focused on AI, XR, and future-facing digital products.
+Prior to joining Precision, Cindy worked across fintech, media, and creative industries. Most recently, she designed digital product experiences at Discover Financial Services, contributing to web and mobile experiences focused on financial tools and customer engagement. She has also worked on brand, motion, and interactive design projects for clients including NBCUniversal and technology startups focused on AI and XR. Her work has received international recognition in motion, graphic design, branding, and innovation design.
 
 Cindy holds a Bachelor of Fine Arts in Graphic Design from the School of Visual Arts and a dual Master’s degree in Design Engineering from Brown University and Rhode Island School of Design(RISD). She is currently based in New York City.
 
@@ -18,6 +17,6 @@ Xindi (Cindy) Lyu is a designer and design engineer with experience across produ
 
 ## Extra Facts
 
-1. Social media must-follow: @cindyl_design
-2. Article recommendation: “The Future of Creativity” by John Maeda — Read article
+1. Social media must-follow: @balmerhahlen
+2. Article recommendation: “O.K., You Can Get a Dog” by Colin Nissan
 3. Favorite app: Stuctured
