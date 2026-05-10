@@ -9,6 +9,8 @@ https://www.loudvoters.com/
 
 **Testing Website:** 
 - https://demo.loudvoters.com/
+- https://demo.loudvoters.com/bills
+
 **Passcode**: LVDEMO
 
 **Claude Solutions:**
