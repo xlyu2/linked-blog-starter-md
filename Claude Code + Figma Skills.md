@@ -37,6 +37,9 @@ share link, allow everyone to edit
 	- in home(cindylyu), claude is hidden, press "cmd+shift+." to reveal hidden folder
 	- and .claude/skills, add skills folder inside
 
+## Wring my own skill
+- md skill for summarize a webpage design in figma and create design guideline of color and typography for dev: [[SKILL.md]]
+
 ---
 Message I want to share: 
 Hey there! Inspired by a recent client request by dev for color and typography style guide, I recently created a skill.md to connect figma canvas to generate style guide for website . I'm testing out and open for feedback! (but be careful using it related to real project! Figma is wildly inconsistence having trouble to create accurate results, yeah the crutial truth is we can't expect AI get it done for us, NOT THERE YET!!)
