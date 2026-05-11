@@ -38,7 +38,7 @@ share link, allow everyone to edit
 	- and .claude/skills, add skills folder inside
 
 ## Wring my own skill
-- md skill for summarize a webpage design in figma and create design guideline of color and typography for dev: [[SKILL.md]]
+- md skill for summarize a webpage design in figma and create design guideline of color and typography for dev: [[SKILL]]
 
 ---
 Message I want to share: 
