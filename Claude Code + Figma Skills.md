@@ -42,4 +42,5 @@ share link, allow everyone to edit
 
 ---
 Message I want to share: 
-Hey there! Inspired by a recent client request by dev for color and typography style guide, I recently created a skill.md to connect figma canvas to generate style guide for website . I'm testing out and open for feedback! (but be careful using it related to real project! Figma is wildly inconsistence having trouble to create accurate results, yeah the crutial truth is we can't expect AI get it done for us, NOT THERE YET!!)
+Hi there! Inspired by a recent client request from dev for a color + typography style guide, I recently created a small `skill.md`that connects to a Figma canvas and helps generate website style guides automatically.
+Still testing it out and very open to feedback if anyone wants to try it! (That said, definitely be careful using it for real projects 😅 Figma structures can be wildly inconsistent, so the outputs aren’t always accurate.)
