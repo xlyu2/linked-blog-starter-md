@@ -72,3 +72,10 @@ Loud Voter-Team-Internal-meeting-May 11 2026
 - **Preparing for the Paid Phase/Pilot Launch:** The design work is being done to prepare for the future paid phase and the subsequent pilot launch, which will involve a lot of marketing investment.
 - **Marketing One-Pager Revision:** Julia Watts is revising the one-pager based on David’s feedback to create a variant for "other audiences." Lily McGovern is tasked with assisting with the cleanup of this document.
 - **Paid Ad Creative Request:** Elizabeth (Liz) Brown is sharing a creative request brief with Dhruv Nanda, with a target date of today (Monday), for relatively lo-fi social graphics and similar paid ad creative. This is considered a medium/lower priority.
+
+---
+## Project Case Studies
+problem
+challenges
+solution
+design highlight
