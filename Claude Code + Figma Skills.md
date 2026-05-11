@@ -12,7 +12,8 @@
 [](https://www.youtube.com/@UICollectiveDesign)
 by UI Collectives
 
-## Figma Skills
+## Figma Skills: 
+- Figma Skills Page: https://www.figma.com/community/skills
 - wildly inconsistence, not really speed up my workflow(yet)
 - figma skill are structured files that guide AI on how to work with Figma
 - Define how to do specific actions: creating components, generating layouts, or syncing variables
