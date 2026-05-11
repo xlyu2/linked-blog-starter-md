@@ -1,5 +1,6 @@
 Date: 05/05/2026
 Client: Loud Voters
+Tasks: Poll Card Redesign + Feed Layout Redesign
 
 ## Getting Started
 
@@ -75,7 +76,14 @@ Loud Voter-Team-Internal-meeting-May 11 2026
 
 ---
 ## Project Case Studies
-problem
-challenges
-solution
-design highlight
+### problem
+- the current website doesn't have people's voting on it
+### challenges 1:
+- **problem:** Poll card redesign having user's private information on it.
+- **solutions:** 4 layout solutions
+- **design highlight**
+### Challenges 2:
+- **problem:** stateholders wants to follow the feed card with original layout
+- **solution:** homepage redesign and filter sessions to make 3 card types(bill, pull, and problem), accessible and easier to navigate.
+- design highlight: 
+### Outcomes/solutions
