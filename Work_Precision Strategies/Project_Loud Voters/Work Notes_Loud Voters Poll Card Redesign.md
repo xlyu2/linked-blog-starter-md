@@ -49,7 +49,6 @@ Loud Voter-Team-Internal-meeting-May 11 2026
 - Current creative work is purely on minor UI/UX variations for the website feed, and the retainer is being used to address these design challenges while preparing for the future paid phase.
 
 **Scheduling and Next Steps**
-
 - Julia Watts requested that Lily McGovern check calendars for a potential 11:30 AM ET Thursday meeting time.
 - Elizabeth (Liz) Brown noted that the time slot is largely open but conflicts with a call she has starting in June.
 - Aalok Kanani advised making sure the time works for Josh Slavin because the work will eventually include a paid phase.
@@ -64,14 +63,10 @@ Loud Voter-Team-Internal-meeting-May 11 2026
 
 **Timelines Noticed**
 - **External Client Meeting:** The recurring external client meeting has been locked in for **Thursdays at 11:30 AM ET** (45 minutes long).
-
 - **Project Phases:** The current design-heavy work using the retainer is serving to prepare the project for a future **paid phase** and the subsequent pilot launch.
-
 - **Paid Ad Creative Request:** The creative request process for paid ads is moving forward, with a design target date of today (Monday), but it is considered a medium/lower priority to ensure resources are focused on your current UI/UX work.
 
-
 "Loud Voters" with several focus areas:
-
 - **UI/UX Design and Product Development:** The primary focus is the project that has become "much more UI/UX than we anticipated". You (Cindy Lyu) and Daniel Lozano are working on minor UI/UX variations, specifically focusing on making the website **feed interesting on day one**. The team is currently using the retainer to solve these design challenges.
 - **Finalizing Feed Designs:** The goal is to move toward finalization of the feed designs after getting consolidated feedback from the client (Jason) on the options that were sent.
 - **Preparing for the Paid Phase/Pilot Launch:** The design work is being done to prepare for the future paid phase and the subsequent pilot launch, which will involve a lot of marketing investment.
