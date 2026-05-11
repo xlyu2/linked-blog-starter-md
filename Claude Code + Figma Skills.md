@@ -28,7 +28,14 @@ by UI Collectives
 	- "add all of these to a working-with design-system-folder inside of references"
 
 ## In Figma
+share link, allow everyone to edit
 
+## Troubleshooting:
+- **how to download a folder form github?** 
+	- press".", use the live view to download the folder
+- **how to install a skill folder in claude?**
+	- in home(cindylyu), claude is hidden, press "cmd+shift+." to reveal hidden folder
+	- and .claude/skills, add skills folder inside
 
 ---
 Message I want to share: 
