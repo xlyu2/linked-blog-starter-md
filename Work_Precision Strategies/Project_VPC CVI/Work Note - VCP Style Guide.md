@@ -33,8 +33,9 @@ I want to build my new plugin in Figma: the plugin can walks every node in the F
 
 ---
 **May 12** - Design updates 
-- new photo for the 
-
+- new photo for the third card added "Stay Informed", added photography
+- different states for "Contact Us" and "my voter info stages"
 
 May 13 - Design updates
-- CTA
+- CTA order change: moved "Register to Vote" start first, for both homepage and "my voter info page"
+	- Register to Vote | Check My Registration | Restore My Vote | How to Vote
