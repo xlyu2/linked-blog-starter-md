@@ -31,3 +31,10 @@ Tutorial on how to create a style in a website design
 
 I want to build my new plugin in Figma: the plugin can walks every node in the Figma document, harvests raw style values, clusters them into a meaningful guide, then renders it in the plugin's iframe panel with an export option for developers.
 
+---
+**May 12** - Design updates 
+- new photo for the 
+
+
+May 13 - Design updates
+- CTA
