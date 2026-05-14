@@ -27,3 +27,4 @@ team lead may not be manager
 
 ![[Screenshot 2026-05-14 at 1.30.36 PM.png]]![[Screenshot 2026-05-14 at 1.31.35 PM.png]]![[Screenshot 2026-05-14 at 1.34.18 PM.png]]![[Screenshot 2026-05-14 at 1.37.05 PM.png]]![[Screenshot 2026-05-14 at 1.40.52 PM.png]]
 
+![[Screenshot 2026-05-14 at 1.43.56 PM.png]]
