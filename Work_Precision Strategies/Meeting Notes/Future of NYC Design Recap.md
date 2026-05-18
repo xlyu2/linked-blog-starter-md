@@ -1,15 +1,16 @@
 Hi everyone! I went to the Future of NYC Design conference this Saturday and wanted to share a quick recap + a few interesting references:
 
-Future of NYC Design  
-[https://futureofnycdesign.com/](https://futureofnycdesign.com/)
+Future of NYC Design : [https://futureofnycdesign.com/](https://futureofnycdesign.com/)
 
 Lectures & Designer Highlights:
 - C.J. Yeh (Synda Media Lab) + Christie Shin (FIT Professor)
 - Wonder Design Studio: https://wonderstudios.com/
-- Shandy Tsai (Design Lead at Duolingo)
+- Shandy Tsai (Duolingo) + Siddiq Nasar(IBM) + Dotun Abeshinbioke (Abike Studio)
+- Gazi Jarin
 
-Emerging Talent / Student AI Projects:
-- Bloom Your Way
+Emerging Talents / Student AI Projects:
+- Bloom Your Way: https://hue.fitnyc.edu/the-world-of-ai/
+- Bunny Quest: https://www.oneclub.org/awards/youngones/-award/62863/bunny-quest/
 - Clash of Netflix: https://www.oneclub.org/awards/youngones/-award/63321/clash-of-netflix/
 
 Interesting Tools & Updates:
