@@ -9,14 +9,12 @@ Lectures & Designer Highlights:
 - Shandy Tsai (Design Lead at Duolingo)
 
 Emerging Talent / Student AI Projects:
-
 - Bloom Your Way
 - Clash of Netflix: https://www.oneclub.org/awards/youngones/-award/63321/clash-of-netflix/
 
 Interesting Tools & Updates:
-
-- Figma Make updates
-- Google AI Studio
+- Figma Make updates: https://www.figma.com/blog/introducing-make-kits-and-make-attachments/
+- Google AI Studio: https://aistudio.google.com/prompts/new_chat
 
 A lot of the talks focused on AI-assisted creative workflows, emerging interaction design, and how designers are integrating storytelling + prototyping with AI tools.
 
