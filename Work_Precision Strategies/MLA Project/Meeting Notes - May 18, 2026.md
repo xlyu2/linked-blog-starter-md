@@ -14,19 +14,20 @@ Overall feedback was very positive. MLA feels the wireframes and UX direction ar
 
 _Key discussion points / client feedback:_
 
-- Accessibility + language access remain a major priority
+- Accessibility + language access
     - low-literacy users, multilingual users, screen reader accessibility
 - Client showed interest in:
     - audio/read-aloud functionality, ADA/accessibility support tools
-    - potential future AI/chat-assisted intake(we offered search workflow)
+    - intake flow / AI-assisted chat possibilities not in scope for this phase)
     - accessibility A/B testing with real users/client groups
-- Donation flow seamless within MLA branding, while Bloomerang constraints
+- Discussion around making the donation flow feel more seamless within MLA branding while working within Bloomerang constraints, (no need to be worried now)
+- clarify on backend/CMS structure approach
 - FAQ/question-based content structure was positively received
+- MLA’s next phase will involve more on copy updates and legal/content review
 
 _Immediate Precision to-dos:_
-
 - Review language access memo from MLA
-- Continue accessibility refinement across wireframes
-- Review intake flow from low-literacy perspective
-- Clarify backend/CMS structure approach
-- Support MLA through upcoming copy/content refinement phase, and accessibility plugin options suggestions
+- Share wireframes with MLA team for review
+- Continue accessibility refinement across wireframes. Review intake flow from low-literacy perspective
+- Support MLA through the upcoming legal/copy/content refinement phase
+- accessibility plugin/tools recommendation and options
