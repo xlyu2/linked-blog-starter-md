@@ -14,20 +14,34 @@ Overall feedback was very positive. MLA feels the wireframes and UX direction ar
 
 _Key discussion points / client feedback:_
 
-- Accessibility + language access
+- Accessibility + language access as major priorities
     - low-literacy users, multilingual users, screen reader accessibility
 - Client showed interest in:
     - audio/read-aloud functionality, ADA/accessibility support tools
-    - intake flow / AI-assisted chat possibilities not in scope for this phase)
+    - future intake flow / AI-assisted chat possibilities (not in scope for this phase)
     - accessibility A/B testing with real users/client groups
-- Discussion around making the donation flow feel more seamless within MLA branding while working within Bloomerang constraints, (no need to be worried now)
-- clarify on backend/CMS structure approach
+- Discussion around making the donation flow feel more seamless within MLA branding while working within Bloomerang constraints (not an immediate concern)
+- Further clarification on backend/CMS structure approach
 - FAQ/question-based content structure was positively received
-- MLA’s next phase will involve more on copy updates and legal/content review
+- MLA’s next phase will involve deeper copy updates and legal/content review
 
-_Immediate Precision to-dos:_
+_Next step for Precision:_
 - Review language access memo from MLA
 - Share wireframes with MLA team for review
-- Continue accessibility refinement across wireframes. Review intake flow from low-literacy perspective
+- Continue accessibility refinement across wireframes. Review the “Get Help”/intake user flow from a low-literacy UX perspective
 - Support MLA through the upcoming legal/copy/content refinement phase
-- accessibility plugin/tools recommendation and options
+- Recommend accessibility plugin/tools options
+
+---
+
+Hi, sharing the meeting notes —
+MLA Website Redesign Review (05/18/2026)
+
+Quick Precision next steps:
+- Review MLA language access memo
+- Share updated wireframes with client
+- Continue accessibility refinement + low-literacy intake UX review
+- Support upcoming copy/legal content review phase
+- Recommend accessibility plugin/tool options
+
+Full notes/doc attached here.
