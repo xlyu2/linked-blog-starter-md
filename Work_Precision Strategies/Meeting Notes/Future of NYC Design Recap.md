@@ -1,12 +1,23 @@
-Hi there! I went to an conference this Sat and sharing my recap: Future of NYC Design:
+Hi everyone! I went to the Future of NYC Design conference this Saturday and wanted to share a quick recap + a few interesting references:
 
-Lectures and Designer Highlights: 
-- synda media lab lab and Christie Shin, FIT Professor
+Future of NYC Design  
+[https://futureofnycdesign.com/](https://futureofnycdesign.com/)
 
-Emerging talents / Students AI projects:
-- bloom your way
-- clash of netflex
+Lectures & Designer Highlights:
+- C.J. Yeh (Synda Media Lab) + Christie Shin (FIT Professor)
+- Wonder Design Studio: https://wonderstudios.com/
+- Shandy Tsai (Design Lead at Duolingo)
 
-Interesting tools:
-- Figma make updates
+Emerging Talent / Student AI Projects:
+
+- Bloom Your Way
+- Clash of Netflix: https://www.oneclub.org/awards/youngones/-award/63321/clash-of-netflix/
+
+Interesting Tools & Updates:
+
+- Figma Make updates
 - Google AI Studio
+
+A lot of the talks focused on AI-assisted creative workflows, emerging interaction design, and how designers are integrating storytelling + prototyping with AI tools.
+
+
