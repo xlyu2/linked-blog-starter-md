@@ -53,7 +53,8 @@
 **AGENDA (5.21.26)**  
 -  **MLA**
     - Client review feedback; Wireframe refine
+    - MLA language access memo
 - **VPC/CVI**
-    - waiting for feedback anything need to noted?
+    - wrapping up + staging/preview links
 - **Blueprint**
 - **Next steps**
