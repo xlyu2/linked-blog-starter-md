@@ -58,3 +58,10 @@
     - wrapping up + staging/preview links
 - **Blueprint**
 - **Next steps**
+
+
+sassy loon with attitude, deadass, illustrated, street style ganster 
+racist black, boots, baseball cap and fluffy ball, not copy, just boots, ganster ass sassy loon staring at, immage, wolly on it, slight angle, laser eyes, just the hat, the pose attitude, image, 
+
+
+anamorphic
