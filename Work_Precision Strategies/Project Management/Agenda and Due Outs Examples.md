@@ -18,3 +18,5 @@
 - [@Cindy Lyu](https://precisionstrat.slack.com/team/U0B2CTL08HE) and [@Daniel Lozano](https://precisionstrat.slack.com/team/U01VBE2SMLP) to share style guides with Blueprint
 - [@Aalok Kanani](https://precisionstrat.slack.com/team/U09JW9Q6ENA) to follow up with Julia Watts to determine status and start date for CJJ project
 - [@Daniel Lozano](https://precisionstrat.slack.com/team/U01VBE2SMLP) to continue onboarding Cindy to WP and Squarespace sites
+
+
