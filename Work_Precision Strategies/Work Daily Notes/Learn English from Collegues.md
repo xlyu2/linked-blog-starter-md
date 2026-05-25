@@ -1,0 +1,7 @@
+- I'm having a bit of a crazy day so need to bump our connect unfort.
+- I'll pass them up the chain
+- deducted
+	- no day will be deducted
+- Apologies for the late ping but the design feedback is in here
+- that one is sneaking up there as a contender
+- if we do revisions i'll touch base.

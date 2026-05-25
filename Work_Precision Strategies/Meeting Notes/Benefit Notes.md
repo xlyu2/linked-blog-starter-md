@@ -1,4 +1,4 @@
-BLUE 365 GYM membership discound
+BLUE 365 GYM membership discounts
 
 
 vision benefit: pay $130 
