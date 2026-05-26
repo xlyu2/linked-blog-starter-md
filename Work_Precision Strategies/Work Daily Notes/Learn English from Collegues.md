@@ -7,6 +7,7 @@
 - if we do revisions i'll touch base.
 - We should divide and conquer
 - I'll offline
+- split up the work/split the work/divide the work 
 
 
 ---
