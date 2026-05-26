@@ -12,7 +12,8 @@
 	- cracking
 - This session demystifies paid advertising,
 	- demystifies
-
+this was a good way to find out!
+- find out
 
 ---
 Klobuchar Logo Loon Project
