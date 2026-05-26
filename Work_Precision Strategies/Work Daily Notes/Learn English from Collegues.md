@@ -8,6 +8,8 @@
 - We should divide and conquer
 - I'll offline
 - split up the work/split the work/divide the work 
+- I am cracking the copy and the photography with the team.
+	- cracking
 
 
 ---
