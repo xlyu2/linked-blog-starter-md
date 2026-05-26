@@ -23,3 +23,5 @@ Not overly stuffy or branded, but feels native to the internet. We're looking
 - chattering class: Means people who constantly talk about politics/media/news — journalists, commentators, political insiders, Twitter/X politics people, strategists, etc. **政治评论圈 / 媒体评论圈 / 政治话语圈的人**
 
 Confrontational Loon
+
+pledge
