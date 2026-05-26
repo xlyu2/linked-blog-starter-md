@@ -5,3 +5,5 @@
 - Apologies for the late ping but the design feedback is in here
 - that one is sneaking up there as a contender
 - if we do revisions i'll touch base.
+- We should divide and conquer
+- I'll offline
