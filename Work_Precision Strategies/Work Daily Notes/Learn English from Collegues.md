@@ -8,7 +8,13 @@
 - We should divide and conquer
 - I'll offline
 
+
+---
+Klobuchar Logo Loon Project
+
 Not overly stuffy or branded, but feels native to the internet. We're looking to strike a balance of appealing to both the grassroots and the political chattering class.
 - stuffy 死板的 / 过于正式的 / 老派的
 - grassroots 草根的 / 来自民众的 / 接地气的
 - chattering class: Means people who constantly talk about politics/media/news — journalists, commentators, political insiders, Twitter/X politics people, strategists, etc. **政治评论圈 / 媒体评论圈 / 政治话语圈的人**
+
+Confrontational Loon
