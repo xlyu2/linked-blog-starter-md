@@ -66,3 +66,10 @@ Step 3: today's paid landscape
 - digital out of home
 - linear tv and radio
 
+
+Multi-channel wins
+- 1. reach
+- reinforcement
+- resilience: one channel under-performs, others carry the weight
+
+Step 4: targeting
