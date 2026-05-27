@@ -41,4 +41,28 @@ step 2: campaign objective and budget planning
 
 **objectives** 指的是广告投放的**核心目标 / 营销目标**，也就是你希望这个广告最终达到什么效果。
 
+The 4 objectives in action
+- awareness: new york jobs ceo council
+- advocacy: heccd, a coalition of civial rights leaders, grassroots advocacy
+- direct response: earthjustice
+
+Using Data and tarting to inform your plan
+- before finalizing a strategy, be pulling from
+	- your own data first
+	- layer in third party data
+	- audience research
+	- the competitive landscape
+- hint: the facebook and google ad libraries are free, public tools that show you exactly what any organization is running in ads right now. including spend ranges and targeting. If you're not using them regularly, start. How to use face book and google ad libraries
+Determine budget
+- target audience size
+- flight duration
+
+Step 3: today's paid landscape
+- social: meta, x, linkedin, snapchat
+- streaking and ctv
+- programmatic
+- audio and podcasts
+- search
+- digital out of home
+- linear tv and radio
 
