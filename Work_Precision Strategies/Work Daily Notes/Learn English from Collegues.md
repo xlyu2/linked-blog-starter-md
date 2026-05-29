@@ -14,6 +14,7 @@
 	- demystifies
 this was a good way to find out!
 - find out
+I want to bump this for approval. It would be great to get it over before EOW.
 
 ---
 Klobuchar Logo Loon Project
